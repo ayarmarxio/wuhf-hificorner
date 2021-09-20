@@ -1,0 +1,26 @@
+.Nav__ul{
+    color:var(--white);
+    font-size: 18px;
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+    font-weight: 700;
+    padding: 30px;
+   margin-left: 15em;
+   margin-right: 15em;
+    align-items: center;
+    
+    text-transform: uppercase;
+}
+
+/*  .Nav__ul__li__active:active{
+   color: var(--brown);
+   
+}  */
+
+.Nav a.active{
+    color: var(--brown);
+}
+ 
+ 
+

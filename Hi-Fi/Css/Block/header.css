@@ -1,0 +1,26 @@
+
+                                         /*Icons*/
+
+.Header__icons{
+    display: flex;
+    justify-content: flex-end;
+    width: 100%;
+    align-items: center;
+    font-size: 24px;
+    color: var(--white);
+    font-weight: normal;
+    cursor: pointer;
+}
+
+.Header__icons__phone{
+    padding: 30px;
+}
+
+.Header__icons__envelope{
+    margin-right: 20px;
+}
+
+
+.Header__hr{
+    border: 2px solid var(--brown);
+}
