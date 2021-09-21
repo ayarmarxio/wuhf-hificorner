@@ -1,0 +1,97 @@
+{
+        "Categories": [
+            {
+                "categoryName": "Amplifiers",
+                "subCategories": ["Integrated Amplifiers", "Power Amplifiers"],
+                "image": "2.jpg"
+            },
+            {
+                "categoryName": "Speakers",
+                "subCategories": ["Integrated Speakers", "Power Speakers"],
+                "image": "1.jpg"
+            },
+            {
+                "categoryName": "Turntables",
+                "subCategories": ["Integrated Turntables", "Power Turntables", "Nower Turntables"],
+                "image": "2.jpg"
+            },
+
+            {
+                "categoryName": "Cd players",
+                "subCategories": ["Notegrated Cd players", "Power Cd players", "Nower Cd players"],
+                "image": "1.jpg"
+            },
+
+            {
+                "categoryName": "Streamers",
+                "subCategories": ["tegrated Streamers", "Po Streamers", "ower Streamers"],
+                "image": "2.jpg"
+            },
+
+            {
+                "categoryName": "Cables",
+                "subCategories": ["tegrated Cables", "Po Cables", "ower Streamers"],
+                "image": "1.jpg"
+            },
+
+            {
+                "categoryName": "Furniture",
+                "subCategories": ["tegrated Furniture", "Po Furniture", "ower Furniture"],
+                "image": "2.jpg"
+            },
+
+            {
+                "categoryName": "Furniture",
+                "subCategories": ["tegrated Furniture", "Po Furniture", "ower Furniture"],
+                "image": "1.jpg"
+            },
+
+            {
+                "categoryName": "Headphones",
+                "subCategories": ["Red Headphones", "Kl blue Headphones", "Km-pink Headphones", "Km-sky-blue Headphones"],
+                "image": "2.jpg"
+            },
+
+            {
+                "categoryName": "Home cinima",
+                "subCategories": ["Red Home cinima", "XLL blue Home cinima", "KLL-pink Home cinima"],
+                "image": "1.jpg"
+            },
+
+            {
+                "categoryName": "Outlet save up to 50% off",
+                "subCategories": ["MN Outlet save up to 50% off", "XLL Outlet save up to 50% off"],
+                "image": "2.jpg"
+            },
+
+            {
+                "categoryName": "Ebay shop",
+                "subCategories": ["Fast Ebay shop", " slsowly Ebay shop", "slsowly Ebay shop" ],
+                "image": "1.jpg"
+            },
+
+            {
+                "categoryName": "Ceiling speakers",
+                "subCategories": ["M Ceiling speakers", " XL Ceiling speakers", "XLL Ceiling speakers" ],
+                "image": "2.jpg"
+            },
+
+            {
+                "categoryName": "Tvs",
+                "subCategories": ["Ml Tvs", " XLm Tvs", "XLLTvs", "MLLTvs" ],
+                "image": "1.jpg"
+            },
+
+            {
+                "categoryName": "Vinyl Lps",
+                "subCategories": [" Retro Vinyl Lps", " Fancy Vinyl Lps", " Used Vinyl Lps", "S Vinyl Lps" ],
+                "image": "2.jpg"
+            }
+
+
+        ]
+        }
+    
+        
+          
+    

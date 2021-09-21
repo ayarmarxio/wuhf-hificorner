@@ -1,0 +1,12 @@
+.categoriesContainer{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+}
+
+.categoriesContainer__a{
+    color: white;
+}
+
+.categoriesContainer__a{
+    color: white;
+}

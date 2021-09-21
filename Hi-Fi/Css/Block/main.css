@@ -4,6 +4,7 @@
     grid-template-columns: repeat(4, 1fr);
     margin-left: 15em;
     margin-right: 15em;
+    background-color: var(--brown);
   
 }
 
@@ -174,4 +175,19 @@
   }
 
  
+    .Main__button{
   
+    background-color: var(--darkrown);
+    border: none;
+    color: white;
+    padding: 12px 28px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    text-transform: uppercase;
+    margin: 4px 2px;
+    cursor: pointer;
+    
+  }
+ 
