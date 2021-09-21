@@ -1,41 +1,41 @@
 {
         "Categories": [
             {
-                "categoryName": "Amplifiers",
+                "categoryName": "Shop By Brand",
                 "subCategories": ["Integrated Amplifiers", "Power Amplifiers"],
                 "image": "2.jpg"
             },
             {
-                "categoryName": "Speakers",
+                "categoryName": "Amplifiers",
                 "subCategories": ["Integrated Speakers", "Power Speakers"],
                 "image": "1.jpg"
             },
             {
-                "categoryName": "Turntables",
+                "categoryName": "Speakers",
                 "subCategories": ["Integrated Turntables", "Power Turntables", "Nower Turntables"],
                 "image": "2.jpg"
             },
 
             {
-                "categoryName": "Cd players",
+                "categoryName": "Turntables",
                 "subCategories": ["Notegrated Cd players", "Power Cd players", "Nower Cd players"],
                 "image": "1.jpg"
             },
 
             {
-                "categoryName": "Streamers",
+                "categoryName": "Cd Players",
                 "subCategories": ["tegrated Streamers", "Po Streamers", "ower Streamers"],
                 "image": "2.jpg"
             },
 
             {
-                "categoryName": "Cables",
+                "categoryName": "Streamers",
                 "subCategories": ["tegrated Cables", "Po Cables", "ower Streamers"],
                 "image": "1.jpg"
             },
 
             {
-                "categoryName": "Furniture",
+                "categoryName": "Cables",
                 "subCategories": ["tegrated Furniture", "Po Furniture", "ower Furniture"],
                 "image": "2.jpg"
             },

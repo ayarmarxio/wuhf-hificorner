@@ -1,0 +1,40 @@
+.Footer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: var(--brown);
+    line-height: normal;
+    padding: 1em;
+}
+
+
+.Footer__adress{
+    display: flex;
+    align-items: center;
+    margin-left: 2em;
+    font-size: 12px;
+}
+
+
+.Footer__adresshome{
+    color: var(--black);
+    font-weight: bold;
+    font-style: normal;
+
+}
+
+    .Footer__links{
+        margin-left: 2em;
+    color: var(--white);
+    text-decoration: underline;
+   
+    }
+
+    .Footer__socmedia{
+        color: var(--white);
+        margin-right: 2em;
+    }
+
+
+
+

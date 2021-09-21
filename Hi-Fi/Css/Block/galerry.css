@@ -1,12 +1,16 @@
-.categoriesContainer{
-    display: grid;
-    grid-template-columns: repeat(4, 1fr);
+.categoriesContainer {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  color: white;
+  font-size: 22px;
+  font-weight: bold;
+  text-align: center;
+  text-transform: uppercase;
+  align-items: center;
+  text-decoration: underline;
+  line-height: 1;
+  
+
+
 }
 
-.categoriesContainer__a{
-    color: white;
-}
-
-.categoriesContainer__a{
-    color: white;
-}

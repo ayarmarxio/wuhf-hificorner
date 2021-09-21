@@ -14,7 +14,7 @@ document.addEventListener("DOMContentLoaded", () => {
         console.log(category.image);
         categoriesContainer.innerHTML += `
                 <article class="" style="width: 255px; height: 255px; background-image: url('./Imagesshop/${category.image}')">
-                    <a href="#" class="categoriesContainer__a">${category.categoryName}</a>
+                    <a href="#" class="categoriesContainer__a ">${category.categoryName}</a>
                 </article>
     `;
       });
