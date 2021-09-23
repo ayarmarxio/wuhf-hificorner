@@ -1,16 +1,32 @@
-.categoriesContainer {
-  display: grid;
-  grid-template-columns: repeat(4, 1fr);
-  color: white;
-  font-size: 22px;
-  font-weight: bold;
-  text-align: center;
-  text-transform: uppercase;
-  align-items: center;
-  text-decoration: underline;
-  line-height: 1;
+
+
+
+ .Main{
+   display: grid;
+   grid-template-columns:repeat(auto-fit, minmax(200px,1fr)) ; 
+  max-width: 900px;
+  margin: auto;
+  background-color: var(--brown);
   
+ }
 
+ .Main__Nav__gallery{
+   display: grid;
+ }
 
-}
+ .Main__imgShop{
+   grid-area: 1/1/2/2;
+ }
 
+ .Main__img__name{
+  grid-area: 1/1/2/2;
+  place-self: center;
+  cursor: pointer;
+  color: var(--white);
+  font-size: 24px;
+  line-height: 1;
+  text-align: center;
+  text-decoration: underline;
+  text-transform: uppercase;
+  
+ }

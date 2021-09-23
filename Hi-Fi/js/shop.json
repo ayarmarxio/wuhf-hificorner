@@ -1,91 +1,91 @@
 {
         "Categories": [
             {
-                "categoryName": "Shop By Brand",
+                "Main__img__name": "Shop By Brand",
                 "subCategories": ["Integrated Amplifiers", "Power Amplifiers"],
-                "image": "2.jpg"
+                "image": "category1.jpg"
             },
             {
-                "categoryName": "Amplifiers",
+                "Main__img__name": "Amplifiers",
                 "subCategories": ["Integrated Speakers", "Power Speakers"],
-                "image": "1.jpg"
+                "image": "category2.jpg"
             },
             {
-                "categoryName": "Speakers",
+                "Main__img__name": "Speakers",
                 "subCategories": ["Integrated Turntables", "Power Turntables", "Nower Turntables"],
-                "image": "2.jpg"
+                "image": "category3.jpg"
             },
 
             {
-                "categoryName": "Turntables",
+                "Main__img__name": "Turntables",
                 "subCategories": ["Notegrated Cd players", "Power Cd players", "Nower Cd players"],
-                "image": "1.jpg"
+                "image": "category4.jpg"
             },
 
             {
-                "categoryName": "Cd Players",
+                "Main__img__name": "Cd Players",
                 "subCategories": ["tegrated Streamers", "Po Streamers", "ower Streamers"],
-                "image": "2.jpg"
+                "image": "category5.jpg"
             },
 
             {
-                "categoryName": "Streamers",
+                "Main__img__name": "Streamers",
                 "subCategories": ["tegrated Cables", "Po Cables", "ower Streamers"],
-                "image": "1.jpg"
+                "image": "category6.jpg"
             },
 
             {
-                "categoryName": "Cables",
+                "Main__img__name": "Cables",
                 "subCategories": ["tegrated Furniture", "Po Furniture", "ower Furniture"],
-                "image": "2.jpg"
+                "image": "category7.jpg"
             },
 
             {
-                "categoryName": "Furniture",
+                "Main__img__name": "Furniture",
                 "subCategories": ["tegrated Furniture", "Po Furniture", "ower Furniture"],
-                "image": "1.jpg"
+                "image": "category8.jpg"
             },
 
             {
-                "categoryName": "Headphones",
+                "Main__img__name": "Headphones",
                 "subCategories": ["Red Headphones", "Kl blue Headphones", "Km-pink Headphones", "Km-sky-blue Headphones"],
-                "image": "2.jpg"
+                "image": "category9.jpg"
             },
 
             {
-                "categoryName": "Home cinima",
+                "Main__img__name": "Home cinima",
                 "subCategories": ["Red Home cinima", "XLL blue Home cinima", "KLL-pink Home cinima"],
-                "image": "1.jpg"
+                "image": "category10.jpg"
             },
 
             {
-                "categoryName": "Outlet save up to 50% off",
+                "Main__img__name": "Outlet save up to 50% off",
                 "subCategories": ["MN Outlet save up to 50% off", "XLL Outlet save up to 50% off"],
-                "image": "2.jpg"
+                "image": "category11.jpg"
             },
 
             {
-                "categoryName": "Ebay shop",
+                "Main__img__name": "Ebay shop",
                 "subCategories": ["Fast Ebay shop", " slsowly Ebay shop", "slsowly Ebay shop" ],
-                "image": "1.jpg"
+                "image": "category1.jpg"
             },
 
             {
-                "categoryName": "Ceiling speakers",
+                "Main__img__name": "Ceiling speakers",
                 "subCategories": ["M Ceiling speakers", " XL Ceiling speakers", "XLL Ceiling speakers" ],
-                "image": "2.jpg"
+                "image": "category2.jpg"
             },
 
             {
-                "categoryName": "Tvs",
+                "Main__img__name": "Tvs",
                 "subCategories": ["Ml Tvs", " XLm Tvs", "XLLTvs", "MLLTvs" ],
-                "image": "1.jpg"
+                "image": "category3.jpg"
             },
 
             {
-                "categoryName": "Vinyl Lps",
+                "Main__img__name": "Vinyl Lps",
                 "subCategories": [" Retro Vinyl Lps", " Fancy Vinyl Lps", " Used Vinyl Lps", "S Vinyl Lps" ],
-                "image": "2.jpg"
+                "image": "category4.jpg"
             }
 
 
