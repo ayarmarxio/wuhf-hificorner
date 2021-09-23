@@ -16,24 +16,23 @@ document.addEventListener("DOMContentLoaded", () => {
         
         <div class="Main__Nav__gallery">
 
-        <div class="Main__imgShop">
+          <div class="Main__imgShop">
 
-<img src="images/category/${category.image}" alt="">
+            <img src="images/category/${category.image}" alt="">
+
+          </div>
+
+          <div class="Main__img__name">
+
+        
+
+            <a href="shop_category.html?categoryid=${category.id}">${category.category_name}</a>
+
+          </div>
 
         </div>
-
-        <div class="Main__img__name">
-<p>${category.Main__img__name}</p>
-
-        </div>
-
-    </div>
-
-    
-    
+        
     `;
-
-   
       });
     });
 });
