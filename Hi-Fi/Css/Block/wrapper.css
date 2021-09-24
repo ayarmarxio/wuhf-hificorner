@@ -1,13 +1,13 @@
 #wrapper{
     width: 1440px;
     margin: 0 auto;
-    background-color: var(--black);
+   
 }
 
-/* #wrapper2{
+ #wrapper2{
 
-    
+    background-color: whitesmoke;
     width: 1440px;
     margin: 0 auto;
 }
- */
+ 
