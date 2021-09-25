@@ -1,0 +1,116 @@
+{
+        "Categories": [
+            {
+               
+                "category_name": "Shop By Brand",
+                "subCategories": ["Integrated Amplifiers", "Power Amplifiers"],
+                "image": "category1.jpg"
+
+            },
+            {
+                "id":1,
+                "category_name": "Amplifiers",
+                "subCategories": ["Integrated Speakers", "Power Speakers"],
+                "image": "category2.jpg"
+            },
+            {
+                "id":2,
+                "category_name": "Speakers",
+                "subCategories": ["Integrated Turntables", "Power Turntables", "Nower Turntables"],
+                "image": "category3.jpg"
+            },
+
+            {
+                "id":3,
+                "category_name": "Turntables",
+                "subCategories": ["Notegrated Cd players", "Power Cd players", "Nower Cd players"],
+                "image": "category4.jpg"
+            },
+
+            {
+                "id":4,
+                "category_name": "Cd Players",
+                "subCategories": ["tegrated Streamers", "Po Streamers", "ower Streamers"],
+                "image": "category5.jpg"
+            },
+
+            {
+                "id":5,
+                "category_name": "Streamers",
+                "subCategories": ["tegrated Cables", "Po Cables", "ower Streamers"],
+                "image": "category6.jpg"
+            },
+
+            {
+                "id":6,
+                "category_name": "Cables",
+                "subCategories": ["tegrated Furniture", "Po Furniture", "ower Furniture"],
+                "image": "category7.jpg"
+            },
+
+            {
+                "id":7,
+                "category_name": "Furniture",
+                "subCategories": ["tegrated Furniture", "Po Furniture", "ower Furniture"],
+                "image": "category8.jpg"
+            },
+
+            {
+                "id":8,
+                "category_name": "Headphones",
+                "subCategories": ["Red Headphones", "Kl blue Headphones", "Km-pink Headphones", "Km-sky-blue Headphones"],
+                "image": "category9.jpg"
+            },
+
+            {
+                "id":9,
+                "category_name": "Home cinima",
+                "subCategories": ["Red Home cinima", "XLL blue Home cinima", "KLL-pink Home cinima"],
+                "image": "category10.jpg"
+            },
+
+            {
+                "id":10,
+                "category_name": "Outlet save up to 50% off",
+                "subCategories": ["MN Outlet save up to 50% off", "XLL Outlet save up to 50% off"],
+                "image": "category11.jpg"
+            },
+
+            {
+                "id":11,
+                "category_name": "Ebay shop",
+                "subCategories": ["Fast Ebay shop", " slsowly Ebay shop", "slsowly Ebay shop" ],
+                "image": "category1.jpg"
+            },
+
+            {
+                "id":12,
+                "category_name": "Ceiling speakers",
+                "subCategories": ["M Ceiling speakers", " XL Ceiling speakers", "XLL Ceiling speakers" ],
+                "image": "category2.jpg"
+            },
+
+            {
+                "id":13,
+                "category_name": "Tvs",
+                "subCategories": ["Ml Tvs", " XLm Tvs", "XLLTvs", "MLLTvs" ],
+                "image": "category3.jpg"
+            },
+
+            {
+                "id":14,
+                "category_name": "Vinyl Lps",
+                "subCategories": [" Retro Vinyl Lps", " Fancy Vinyl Lps", " Used Vinyl Lps", "S Vinyl Lps" ],
+                "image": "category4.jpg"
+            }
+
+          
+
+            
+
+        ]
+        }
+    
+        
+          
+    

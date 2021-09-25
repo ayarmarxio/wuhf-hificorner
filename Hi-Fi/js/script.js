@@ -3,7 +3,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
   let categoriesContainer = document.querySelector(".Main");
 
-  fetch("./js/shop.json")
+  fetch("./js/home.json")
     .then((response) => response.json())
     .then((data) => {
       // console.log(data);
