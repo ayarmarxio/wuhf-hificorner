@@ -5,7 +5,8 @@
             "category_name": "creek_classic_cd",
             "subCategories": ["Integrated Amplifiers", "Power Amplifiers"],
             "price" : [429.00, 329.00],
-            "image": "creek_classic_cd.jpg"
+            "image": "creek_classic_cd.jpg",
+            "hasButom": true
 
         },
 
@@ -14,7 +15,8 @@
             "category_name": "creek_Destiny_CD",
             "subCategories": ["Integrated Amplifiers", "Power Amplifiers"],
             "price" : 329.00,
-            "image": "creek_Destiny_CD.jpg"
+            "image": "creek_Destiny_CD.jpg",
+            "hasButom": true
 
         },
 
@@ -23,8 +25,8 @@
             "category_name": "creek_evo_cd",
             "subCategories": ["Integrated Amplifiers", "Power Amplifiers"],
             "price" : 399.00,
-            "image": "creek_evo_cd.jpg"
-
+            "image": "creek_evo_cd.jpg",
+            "hasButom": false
         },
 
         {
@@ -32,8 +34,8 @@
             "category_name": "Exp_2010S_CD",
             "subCategories": ["Integrated Amplifiers", "Power Amplifiers"],
             "price" : 399.00,
-            "image": "Exp_2010S_CD.gif"
-
+            "image": "Exp_2010S_CD.gif",
+            "hasButom": false
         }
 
 
