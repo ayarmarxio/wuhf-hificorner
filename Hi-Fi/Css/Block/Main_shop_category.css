@@ -1,5 +1,6 @@
 .Main_shop_category {
   background-color: var(--white);
+  display: flex;
 }
 
 /* .Main_shop_category__tittel {
@@ -29,16 +30,18 @@
   line-height: 1.5;
 }
 
+
 /* -----------------------------------------3 asside*/
 
 .Main_shop_category__aside3 {
-  background-color: whitesmoke;
+  /* background-color: whitesmoke; */
   max-width: 250px;
+  height: 250px;
   font-weight: 600;
   line-height: 1.5;
   cursor: pointer;
   margin: 2em;
-  padding: 2em;
+   padding: 2em; 
 }
 
 .Main_shop_category__ul2 {
@@ -64,12 +67,13 @@
 .Main_shop_category__greyBox {
   display: flex;
   background: whitesmoke;
-  border: 1px solid darkgrey;
-  height: 50px;
-  width: 65%;
+  /* border: 1px solid darkgrey; */
+  height: 60px;
+  /* width: 65%; */
   /* align-items: center;  */
   margin: 0 auto;
-  padding: 5px;
+  margin-bottom: 2em;
+  padding: 10px;
 }
 
 #sortBy{
@@ -83,17 +87,18 @@
 }
 
 
+.Main_shop_category__middle{
+  margin-top: 8em;
+}
+
+
 
 .Main_shop_category__title {
-    text-align: center;
-    margin-right: 23em;
+     margin-bottom: 1em; 
+   
 }
 
-.Main_shop_category__price {
-  border: 1px solid darkgrey;
-  background-color: whitesmoke;
-  height: 20px;
-}
+
 
 /*Midle   2nd Div*/
 
@@ -117,13 +122,15 @@
     margin-left: 15px;
     /* align-self: center; */
     font-size: 16px;
-    color: grey
+    color: var(--brown);
+    cursor: pointer;
 }
 
 .Main_shop__menu{
     margin-left: 15px;
     color: grey;
     font-size: 16px;
+    cursor: pointer;
 }
 
 
@@ -135,4 +142,22 @@
     
     margin-left: 22em;
     font-size: 16px;
+}
+
+.label_items{
+  color: var(--black);
+  font-weight: bold;
+  margin-right: 5px;
+  font-size: 14px;
+}
+
+.label_Show{
+  text-transform: uppercase;
+  margin-right: 5px;
+  font-size: 14px;
+ 
+}
+
+.Main_shop_category__aside3__list{
+  margin-top: 4em;
 }

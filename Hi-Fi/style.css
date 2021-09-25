@@ -23,6 +23,7 @@
 @import url("Css/Block/main.css");
 @import url("Css/Block/footer.css");
 @import url("Css/Block/Main_shop_category.css");
+@import url("Css/Block/categoryGallery.css");
 
 body {
    /* background-color: var(--black); */

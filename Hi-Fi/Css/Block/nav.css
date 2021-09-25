@@ -18,9 +18,19 @@
    
 }  */
 
-.Nav a.active{
+.Nav a.active
+{
     color: var(--brown);
 }
- 
- 
+
+.Nav__shopCategory a.active{
+    color: var(--brown);
+}
+
+
+
+.Nav__shopCategory{
+    background-color: black;
+}
+
 

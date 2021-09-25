@@ -24,3 +24,7 @@
 .Header__hr{
     border: 1px solid var(--brown);
 }
+
+.header__shopCategory{
+    background-color: black;
+}

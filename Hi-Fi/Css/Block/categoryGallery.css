@@ -1,0 +1,45 @@
+
+.CategoryImg{
+  display: grid;
+  grid-template-columns: repeat(4, 2fr);
+  max-width: 100%;
+  align-items: center;
+  /* background-color: #008000; */
+  margin-top: 2.5em;
+  margin-bottom: 2.5em;
+  grid-gap: 2em;
+ 
+}
+
+
+
+.CategoryImg__img{
+    border: 1px solid lightgrey;
+    padding: 1em;
+}
+
+
+
+.CategoryImg__img, 
+.CategoryImg__text,
+.CategoryImg__price,
+.CategoryImg__btn{
+    text-align: center;
+    padding: 5px;
+}
+
+.CategoryImg__text{
+    font-weight: bold;
+    padding: 5px;
+
+}
+
+
+.CategoryImg__gallery__add{
+    background-color: var(--brown);
+    padding: 0.5em;
+    color: white;
+    font-size: 12px;
+    font-weight: bold;
+  
+}
