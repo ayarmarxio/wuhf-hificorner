@@ -24,9 +24,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
           <div class="Main__img__name">
 
-        
-
-            <a href="shop_category.html?categoryid=${category.id}">${category.category_name}</a>
+           <a href="shop_category.html?categoryid=${category.category_name}">${category.category_name}</a>
 
           </div>
 

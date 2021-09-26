@@ -1,5 +1,6 @@
 {
     "Amplifiers": [
+
         {
             "id":1,
             "category_name": "creek_classic_cd",
@@ -242,11 +243,51 @@
             "hasButom": false
         }
 
+       
+],
+
+"Speakers": [
+
+    {
+        "id":1,
+        "category_name": "epos_m5",
+        "subCategories": ["Integrated Amplifiers", "Power Amplifiers"],
+        "price" : [429.00, 329.00],
+        "image": "epos_m5.gif",
+        "hasButom": true
+
+    },
+
+    {
+        "id":2,
+        "category_name": "harbeth_monitor30.",
+        "subCategories": ["Integrated Amplifiers", "Power Amplifiers"],
+        "price" : 329.00,
+        "image": "charbeth_monitor30.jpg",
+        "hasButom": true
+
+    },
+
+    {
+        "id":3,
+        "category_name": "boesendorfer_vcs_wall",
+        "subCategories": ["Integrated Amplifiers", "Power Amplifiers"],
+        "price" : 399.00,
+        "image": "boesendorfer_vcs_wall.gif",
+        "hasButom": false
+    }
+
+    
+    
+
+    
+
+   
+]
 
 
 
 
 
-
-    ]}
+}
 
