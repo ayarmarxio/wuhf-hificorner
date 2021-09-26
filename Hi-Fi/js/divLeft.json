@@ -1,0 +1,18 @@
+{
+    "Categories": [
+        {
+           
+            "id": 1,
+            "label": "Amplifiers"
+    
+        },
+        {
+            "id": 2,
+            "label": "Speakers"    
+        },
+        {
+            "id": 3,
+            "label": "TurnTables"    
+        }
+    ]
+}
